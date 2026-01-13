@@ -69,8 +69,9 @@ I enjoy building **practical, real-world projects** and continuously improving m
 ---
 
 ## 📫 Connect With Me
-📍 **Location:** Dhaka, Bangladesh  
-💼 **LinkedIn:** https://www.linkedin.com/in/th3sabbir  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/th3sabbir)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/th3sabbir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/th3sabbir)
 
 ---
 
