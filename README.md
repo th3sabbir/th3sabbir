@@ -1,14 +1,17 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
+
+# Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30">, I'm SΔBBIR AHMED
+
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-%06AC38.svg?style=for-the-badge&logo=PagerDuty&logoColor=white)](https://adibsadman.me)
+[![Profile Views](https://komarev.com/ghpvc/?username=AdibSadman192&style=for-the-badge&color=blueviolet)](https://github.com/AdibSadman192) -->
 </div>
-## Hi there 👋 I'm Sabbir Ahmed
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+</div>
 
-🎓 **Undergraduate Computer Science & Engineering (CSE) Student**  
-💻 **Full-Stack Web Developer**  
-📈 **SEO Practitioner**  
-🚀 **Tech Enthusiast**
-
-I am a motivated CSE undergraduate with hands-on experience in **Laravel-based web development** and database-driven systems.  
+I am a motivated CSE undergraduate with hands-on experience in **PHP-Laravel based web development** and database-driven systems.  
 I enjoy building **practical, real-world projects** and continuously improving my skills.
 
 ---
