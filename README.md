@@ -15,13 +15,13 @@ I enjoy building **practical, real-world projects** and continuously improving m
 ---
 
 ## 🧠 About Me
-- Experienced with Laravel for backend development
+- Passionate about building software, startups, and solving real-world problems
 - Strong interest in full-stack web technologies
 - Comfortable with databases and backend logic
 - Curious about modern web and mobile app development
 - Always learning new tools, frameworks, and best practices
-- Open to collaboration, internships, and growth opportunities
-
+- Open to collaboration, hands-on projects, and growth opportunities
+- ⚡ Motto: “Believing that I can make it solo.”
 ---
 
 ## 🔧 Technical Skills
