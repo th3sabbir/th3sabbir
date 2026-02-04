@@ -6,7 +6,7 @@
 
 </div>
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Always+Learning+New+Things;Building+Real-World+Projects+🚀;Turning+Ideas+into+Reality!" alt="Typing SVG" />
 </div>
 
 I am a motivated CSE undergraduate with hands-on experience in **PHP-Laravel based web development** and database-driven systems.  
@@ -70,6 +70,8 @@ I enjoy building **practical, real-world projects** and continuously improving m
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/th3sabbir)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/th3sabbir)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/th3sabbir)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://sabbirahmed.net)
+
 
 ---
 
